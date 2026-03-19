@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "IT IS WATCHING",
   description: "- APRO",
+  icons: {
+    icon: "/public/eyeiris2.png",
+  },
 };
 
 export default function RootLayout({
